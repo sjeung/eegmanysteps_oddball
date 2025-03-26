@@ -23,9 +23,6 @@ This repository contains a presentation script for an EEG experiment based on th
 3. **Instructions**:
     - Participants will hear instructions and adjust the volume of the sounds.
 
-4. **Eye Movement and Rest (Optional)**:
-    - If selected, participants will perform eye movements and rest phases as instructed.
-
 5. **Main Experiment**:
     - Participants will hear a sequence of target and standard sounds. They must count the target sounds and report the count at the end.
 
