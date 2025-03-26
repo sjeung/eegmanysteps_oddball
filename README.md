@@ -35,7 +35,7 @@ This repository contains a presentation script for an EEG experiment based on th
 
 
 ## Author
-[Melanie Klapprott](mailto:melanie.klapprott@uni-oldenburg.de), Spring 2025
+[Melanie Klapprott](mailto:melanie.klapprott@uni-oldenburg.de?subject=%5BEEGManySteps%5D%20Oddball%20presentation), Spring 2025  
 
 ## License
 This repository is licenced with a MIT licnence, and intended for educational and research purposes. Ensure compliance with ethical guidelines when using this script in experiments.  
