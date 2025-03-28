@@ -5,6 +5,8 @@ This repository contains a presentation script for an EEG experiment based on th
 
 ## Features
 - **Stimuli**: Includes target and standard sounds, as well as instructional audio.
+- **Default configuration**: 200 trials, about 80% standard stimuli (800Hz beep tone), 20% target stimuli (1000Hz beep tone)
+- **Optional resting & eye artefact measurement**: can be decided by the experimenter at the beginning of the block
 
 ## How to Use
 
