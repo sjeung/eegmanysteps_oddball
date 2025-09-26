@@ -4,9 +4,11 @@
 This repository contains a presentation script for an EEG experiment based on the oddball paradigm. The experiment involves auditory stimuli and participant responses to target and standard sounds. It is designed to measure brain responses to rare and frequent auditory events.
 
 ## Features
+- **Default Language**: English
 - **Stimuli**: Includes target and standard sounds, as well as instructional audio.
-- **Default configuration**: 200 trials, about 8% standard stimuli (800Hz beep tone), 20% target stimuli (1000Hz beep tone)
+- **Default configuration**: 200 trials, about 80% standard stimuli (800Hz beep tone), 20% target stimuli (1000Hz beep tone). The exact ratio of target and standard stimuli varies with each run of the experiment. The ISI jitters between 1000ms and 2000ms.
 - **Optional resting & eye artefact measurement**: can be decided by the experimenter at the beginning of the block
+- **Duration**: 6-8 minutes, depending on whether eye artefact measurement + resting phase is chosen or not
 
 ## How to Use
 
@@ -38,6 +40,8 @@ This repository contains a presentation script for an EEG experiment based on th
 - Modify the number of trials, target-to-standard ratio, or jitter duration in the PCL section of the script.
 - Update audio files or captions in the SDL section to match your experiment's requirements.
 
+### Procedure recommendation
+- repeat at least 4 times with 2 blocks while standing and 2 blocks while walking.
 
 ## Author
 [Melanie Klapprott](mailto:melanie.klapprott@uni-oldenburg.de?subject=%5BEEGManySteps%5D%20Oddball%20presentation), Spring 2025  
