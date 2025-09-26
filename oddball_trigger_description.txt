@@ -1,0 +1,18 @@
+Triggers EEG Many Steps Oddball Paradigm
+
+- sta: standard tone
+- tar: target tone
+- 1 instruction: first instruction
+- restInstruct: instruction for eye artefact & resting measurement
+- blinksInstruct: instruction for blinks
+- blinksStart: instruction to start blinking
+- blinksEnd: instruction to stop blinking
+- EyesMoveInstruct: instruction to move eyes from left to right
+- EyesMoveStart: instruction to start moving eyes from left to right
+- EyesMoveEnd: instruction to stop moving eyes from left to right
+- EyesOpenStart: instruction to look straight ahead with open eyes
+- EyesClosedStart: instruction to close eyes & sit still for one minute
+- Start soon: reminder on the task and that the task starts now
+- 11: left side of screen was tapped
+- 22: right side of screen was tapped
+- 33: screen was tapped
