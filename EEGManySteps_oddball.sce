@@ -4,7 +4,7 @@
 #
 #
 # Author: Melanie Klapprott, Spring 2025
-
+# Editted by Sein Jeung to implement button press 
 
 ### ------------------------ Experiment header ------------------------------
 
@@ -349,6 +349,7 @@ trial {
 		sound sound_sta;
 		time = 0;
 		code = "sta";
+		response_active = true; # activate bu
 	}sta_event;
 	
 }standard_trial;
@@ -364,6 +365,7 @@ trial {
 		sound sound_tar;
 		time = 0;
 		code = "tar";
+		response_active = true;
 	}tar_event;	
 		
 	
@@ -380,7 +382,7 @@ int num_target = int(num_trials*perc_target) + random( 0, 8 );
 array <int> store_response[num_trials]; 
 array <int> store_jitter[num_trials]; 
 array <double> store_rt[num_trials];  
-#array <double> store_time[num_trials]; 
+array <double> store_touch[num_trials]; 
 int jitter_start = 1000;
 int jitter_stop = 2000;
 int jitter;
