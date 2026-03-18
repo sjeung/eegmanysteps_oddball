@@ -377,7 +377,7 @@ begin_pcl;
 
 # Initialiasing
 int num_trials = 200;
-double perc_target = 0.25;
+double perc_target = 0.2;
 int num_target = int(num_trials*perc_target) + random( 0, 8 );
 array <int> store_response[num_trials]; 
 array <int> store_jitter[num_trials]; 
