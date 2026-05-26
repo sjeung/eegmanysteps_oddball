@@ -461,7 +461,7 @@ if l2 == 2 then
 
 end;
 
-trial_instruction_start.present();
+#trial_instruction_start.present(); % no counting instruction present 
 
 
 # The experiment begins
