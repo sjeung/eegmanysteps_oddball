@@ -1,0 +1,15 @@
+1000_dev	/stimuli/1000_dev.wav	Audio	10980	1401575
+800_sta	/stimuli/800_sta.wav	Audio	10980	1397589
+block_end	/stimuli/block_end.wav	Audio	117642	15019366
+eyesclosed	/stimuli/eyesclosed.wav	Audio	98058	12507917
+hello	/stimuli/hello.wav	Audio	137226	17538433
+instruct_1	/stimuli/instruct_1.wav	Audio	493194	62845239
+instruct_2	/stimuli/instruct_2.wav	Audio	326154	41658742
+instruct_3	/stimuli/instruct_3.wav	Audio	496650	63207054
+instruct_4	/stimuli/instruct_4.wav	Audio	496650	63266444
+instruct_blink	/stimuli/instruct_blink.wav	Audio	175242	22304147
+instruct_moveeyes	/stimuli/instruct_moveeyes.wav	Audio	266250	33925982
+instruct_rest	/stimuli/instruct_rest.wav	Audio	215562	27503809
+thanks	/stimuli/thanks.wav	Audio	40458	5163800
+thanks_eyesopen	/stimuli/thanks_eyesopen.wav	Audio	140682	17939949
+trial_start	/stimuli/trial_start.wav	Audio	396426	50513062

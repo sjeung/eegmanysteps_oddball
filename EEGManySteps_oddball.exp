@@ -1,5 +1,5 @@
-<ver>23.1</ver>
-<efn>C:\Users\melan\Documents\PhD\EEGManySteps\EEGManySteps_oddball.exp</efn>
+<ver>25</ver>
+<efn>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\EEGManySteps_oddball.exp</efn>
 <author>Melanie Klapprott</author>
 <con>
 <pause>P</pause>
@@ -41,31 +41,31 @@
 <lfn></lfn>
 </docs>
 <dp_list></dp_list>
-<dsd>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli</dsd>
+<dsd>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli</dsd>
 <dwm>0</dwm>
 <dxv>8</dxv>
 <efs>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\EEGManySteps_oddball.sce</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\800_sta.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\1000_dev.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\Blinks.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\Danke.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\Danke_Closed.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\ende.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\EndTrial.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\EyesClosed.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\EyesMove.mp3</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\EyesMove.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\EyesOpen.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\Hello.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\Instruct_1.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\Instruct_1b.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\Instruct_2.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\Instruct_3.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\Instruct_4.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\Tap_GoOn.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\Tap_Start.wav</filename>
-<filename>C:\Users\melan\Documents\PhD\EEGManySteps\stimuli\Trial_Start.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\EEGManySteps_oddball.sce</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\800_sta.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\1000_dev.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\Blinks.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\Danke.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\Danke_Closed.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\ende.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\EndTrial.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\EyesClosed.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\EyesMove.mp3</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\EyesMove.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\EyesOpen.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\Hello.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\Instruct_1.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\Instruct_1b.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\Instruct_2.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\Instruct_3.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\Instruct_4.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\Tap_GoOn.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\Tap_Start.wav</filename>
+<filename>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\stimuli\Trial_Start.wav</filename>
 </efs>
 <exclusive_mouse>1</exclusive_mouse>
 <exp_version>1.0</exp_version>
@@ -140,7 +140,7 @@
 <idt>0</idt>
 <ilc>0</ilc>
 <ip_chans></ip_chans>
-<lfd>C:\Users\melan\Documents\PhD\EEGManySteps\logfiles</lfd>
+<lfd>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\logfiles</lfd>
 <lnb>2</lnb>
 <lno>4</lno>
 <log>
@@ -164,7 +164,7 @@
 <def></def>
 <mod>1</mod>
 <name>Presentation</name>
-<use>0</use>
+<use>1</use>
 </lslset>
 <maxpv></maxpv>
 <minpv></minpv>
@@ -188,26 +188,9 @@
 <spr></spr>
 <sps></sps>
 </parameters>
-<piai>COM4</piai>
+<piai>COM1</piai>
 <pian>Serial Port</pian>
-<pihpn>COM4</pihpn>
-</device>
-<device>
-<parameters>
-<cts>0</cts>
-<dsrin>0</dsrin>
-<dsrout>0</dsrout>
-<dtr>disable</dtr>
-<rts>disable</rts>
-<set_fifo>1</set_fifo>
-<spd></spd>
-<spp></spp>
-<spr></spr>
-<sps></sps>
-</parameters>
-<piai>COM5</piai>
-<pian>Serial Port</pian>
-<pihpn>COM5</pihpn>
+<pihpn>COM1</pihpn>
 </device>
 </port_devices>
 <rdl>
@@ -229,21 +212,14 @@
 <axis>
 <max>1000</max>
 <min>-1000</min>
-<name>X-Achse</name>
+<name>X-axis</name>
 <restricted>1</restricted>
 <scale>1</scale>
 </axis>
 <axis>
 <max>1000</max>
 <min>-1000</min>
-<name>Y-Achse</name>
-<restricted>1</restricted>
-<scale>1</scale>
-</axis>
-<axis>
-<max>1000</max>
-<min>-1000</min>
-<name>Rad</name>
+<name>Y-axis</name>
 <restricted>1</restricted>
 <scale>1</scale>
 </axis>
@@ -251,14 +227,19 @@
 <dx_device_type>18</dx_device_type>
 <max_raw_pos>65535</max_raw_pos>
 <min_raw_pos>0</min_raw_pos>
-<name>Maus</name>
+<name>Mouse</name>
 <unique_id>0</unique_id>
 </device>
 <device>
 <device_type>3</device_type>
 <dx_device_type>19</dx_device_type>
-<name>Tastatur</name>
+<name>Keyboard</name>
 <unique_id>1</unique_id>
+</device>
+<device>
+<device_type>3</device_type>
+<dx_device_type>0</dx_device_type>
+<name>HID Keyboard Device</name>
 </device>
 <device>
 <abs_axis>
@@ -303,14 +284,29 @@
 <name>HID-compliant mouse</name>
 </device>
 <device>
-<device_type>3</device_type>
-<dx_device_type>0</dx_device_type>
-<name>Standard PS/2 Keyboard</name>
+<device_type>4</device_type>
+<dx_device_type>17</dx_device_type>
+<name>Sennheiser SC 1x5 USB</name>
 </device>
 <device>
-<device_type>3</device_type>
-<dx_device_type>0</dx_device_type>
-<name>ASUS Keyboard</name>
+<device_type>4</device_type>
+<dx_device_type>17</dx_device_type>
+<name>HID-compliant consumer control device</name>
+</device>
+<device>
+<device_type>4</device_type>
+<dx_device_type>17</dx_device_type>
+<name>HID-compliant system controller</name>
+</device>
+<device>
+<device_type>4</device_type>
+<dx_device_type>17</dx_device_type>
+<name>Sennheiser SC 1x5 USB 1</name>
+</device>
+<device>
+<device_type>4</device_type>
+<dx_device_type>17</dx_device_type>
+<name>Sennheiser SC 1x5 USB 2</name>
 </device>
 <device>
 <axis>
@@ -350,6 +346,7 @@
 <srgs></srgs>
 <uwd>0</uwd>
 <vocab></vocab>
+<vosk_model></vosk_model>
 </speech>
 </device>
 <device>
@@ -663,7 +660,7 @@
 <offset>3</offset>
 </idv>
 <overrides></overrides>
-<sfn>C:\Users\melan\Documents\PhD\EEGManySteps\EEGManySteps_oddball.sce</sfn>
+<sfn>P:\Project_EEGManySteps\WP1_Oddball_GBYK_BP\Setup\Oddball_presentation\eegmanysteps_oddball\EEGManySteps_oddball.sce</sfn>
 </sce>
 <sct>
 <capture_device>
@@ -673,12 +670,14 @@
 <closest_match>0</closest_match>
 <closest_match_max></closest_match_max>
 <closest_match_min>1, 16, 8000</closest_match_min>
+<dev_name>None</dev_name>
 <do_rec_vol>0</do_rec_vol>
 <freq></freq>
 <ignore_drops>1</ignore_drops>
 <max_drops>250</max_drops>
 <max_rec_dur>60</max_rec_dur>
 <name>None</name>
+<output_format>0</output_format>
 <rec_vol>1</rec_vol>
 <show_drops>1</show_drops>
 </capture_device>
@@ -712,7 +711,7 @@
 <use_dev_freq>1</use_dev_freq>
 <use_rewind_distance>0</use_rewind_distance>
 </sde>
-<sdv>Primärer Soundtreiber</sdv>
+<sdv>Primary Sound Driver</sdv>
 <show_dis>0</show_dis>
 <show_parm>0</show_parm>
 <show_term>0</show_term>
